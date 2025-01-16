@@ -1,0 +1,1 @@
+SELECT c.name FROM customers c WHERE state = 'RS';
